@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/flutter_clg.iml" filepath="$PROJECT_DIR$/flutter_clg.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android/flutter_clg_android.iml" filepath="$PROJECT_DIR$/android/flutter_clg_android.iml" />
+    </modules>
+  </component>
+</project>
